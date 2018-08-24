@@ -17,9 +17,9 @@ public class HangmanApplication {
 //Allows for multiple games
         while (isWantToPlayInGame){
 // Setting up the game
-            while (!game.isOver){
+//            while (!game.isOver){
 // Playing the game
-            }
+//            }
 
             System.out.println();
             System.out.println("Do you want play, darling loser? If you do, please input answer \"Y\"");
